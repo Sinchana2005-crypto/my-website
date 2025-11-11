@@ -69,13 +69,13 @@ nav a.active {
   margin-top: 40px;
   width: 90%;
   max-width: 700px;
-  color: #fff;
+  color: black;
   box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2);
   animation: fadeIn 1.2s ease-in-out;
 }
 
 .bio-card h2 {
-  color: #fff;
+  color: black;
   border-bottom: 2px solid #fff;
   padding-bottom: 5px;
   margin-bottom: 15px;
@@ -122,3 +122,4 @@ ul {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
